@@ -404,7 +404,9 @@ Também podem ser adicionados:
 
 # 👨‍💻 Autor
 
-**William Nascimento**
+**Evanei Freitas**
+**Formado em: Bacharel em Engenharia de Software**
+**Pós-Graduando em:CYBERCRIME E CYBERSECURITY: PREVENÇÃO E INVESTIGAÇÃO DE CRIMES DIGITAIS**
 
 Projeto desenvolvido para fins de **estudo e prática de programação em Java**.
 
